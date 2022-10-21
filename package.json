@@ -1,0 +1,16 @@
+{
+"name": "scb90",
+"theme": "scb90",
+"version": "6.6.10",
+"description": "scb90 ทางเข้าหลักเว็บแทงบอลเว็บตรง คนเล่นเยอะ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"scb90",
+"scb90 เครดิตฟรี",
+"scb90 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/scb90",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
